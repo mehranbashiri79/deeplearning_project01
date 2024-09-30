@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow/Keras model files
+*.h5
+*.pkl
+
+# Results directories
+results/
+
+# Other potential files to ignore
+.DS_Store  # macOS
+Thumbs.db  # Windows
