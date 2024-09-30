@@ -45,9 +45,10 @@ The dataset used for this project is sourced from Kaggle:
   *Author:* Matthias Bittlingmayer  
   *Accessed:* 2024-03-24  
   *Year:* 2017
-  The dataset required for this project consists of two files that need to be downloaded from the provided link and extracted into the Dataset/ directory:
+  
+- **[The dataset required for this project consists of two files that need to be downloaded from the provided link and extracted into the Dataset/ directory:
 -  train.ft.txt: Contains the training data used to build the model.
--  test.ft.txt: Contains the testing data for evaluating the model’s performance. 
+-  test.ft.txt: Contains the testing data for evaluating the model’s performance.]** 
   
 ## Results
 Results including plots and metrics are saved in the `results/` directory:
